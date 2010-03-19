@@ -1,0 +1,13 @@
+log/*.log
+tmp/*
+tmp/**/*
+config/database.yml
+doc/api
+doc/app
+db/*.sqlite3
+*.swp
+*~
+.DS_Store
+vendor/bundler_gems/*
+!vendor/bundler_gems/cache
+!vendor/bundler_gems/bundler
